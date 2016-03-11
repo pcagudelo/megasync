@@ -1,5 +1,5 @@
 pkgname=megasync
-pkgver=2.6.1
+pkgver=2.7.2
 pkgrel=1
 pkgdesc="Sync your files to your Mega account. Official app"
 arch=('x86_64')
